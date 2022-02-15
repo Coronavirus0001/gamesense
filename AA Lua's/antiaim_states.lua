@@ -1,3 +1,13 @@
+--//Things to add
+-- Fakeduck state
+-- Force Roll States
+-- AA Presets?!?!?!
+-- Roll Manipulation
+-- Fix the UI Visibility (Showing Body Yaw Slider when Opposite is selected)
+-- Better debug Panel (Make it look big sex)
+-- Show AA Option
+
+
 --Variables that are needed
 x,y = client.screen_size()
 tab = "AA"
